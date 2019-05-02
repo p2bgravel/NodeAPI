@@ -1,0 +1,10 @@
+{
+  "documentation": {
+    "id": "app.components.LeftMenuFooter.documentation",
+    "defaultMessage": "P2B Gravel"
+  },
+  "poweredBy": {
+    "id": "app.components.LeftMenuFooter.poweredBy",
+    "defaultMessage": "Proudly powered by "
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "connection": "default",
+  "collectionName": "Notice",
+  "info": {
+    "name": "notice",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "Title": {
+      "required": true,
+      "type": "string"
+    },
+    "Desc": {
+      "required": true,
+      "type": "text"
+    },
+    "slug": {
+      "required": true,
+      "default": "slug",
+      "type": "string"
+    }
+  }
+}

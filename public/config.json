@@ -1,0 +1,39 @@
+{
+	"config": {
+		"SEO": {
+			"AppName": "P2B Core",
+			"mobile_color": "#000000",
+			"cfg_name": "P2B Core",
+			"cfg_url": "p2bgravel.com",
+			"analytics": "UA-124492600-1",
+			"seo_lang": "en",
+			"seo_geo": "EN",
+			"seo_geo_latitude": "10.8263029",
+			"seo_geo_longitude": "106.68025",
+			"app_facebook_ID": "187239652223520",
+			"cfg_description": "P2B Gravels",
+			"cfg_keywords": "P2B Gravels",
+			"cfg_author": "Bao Nguyen",
+			"cfg_sitenameurl": "https://p2bgravel.com",
+			"app_facebook_adminsID": "XXXXXXX,XXXXXXX",
+			"app_appleID": "XXX-XXX-XXX-XXXX",
+			"cfg_sitenameurlgoogle": "XXXXXXXXXXXXXX",
+			"verf_google": "AtZeNNqk1q_1Tq62ysdk7Mt7w00clELXvBUggOqTtqU",
+			"verf_bing": "F7679394C660249FBA58732D6100A65A",
+			"verf_yandex": "255c94fdb23e4bed"
+		},
+		"favicondist": "./favicon/",
+		"website": "p2bgravel.com",
+		"title": "P2B Core - CMS",
+		"author": {
+			"email": "baonguyenyam@gmail.com",
+			"name": "BaoNguyen",
+			"phone": "0969689893",
+			"link": "https://p2bgravel.com",
+			"coding": "Coding by Bao Nguyen"
+		},
+		"license": "MIT",
+		"name": "Bao Nguyen Apps",
+		"version": "1.0"
+	}
+}

@@ -1,0 +1,31 @@
+{
+  "connection": "default",
+  "collectionName": "Pages",
+  "info": {
+    "name": "pages",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "Title": {
+      "required": true,
+      "type": "string"
+    },
+    "Image": {
+      "collection": "file",
+      "via": "related",
+      "plugin": "upload"
+    },
+    "Desc": {
+      "required": true,
+      "type": "text"
+    },
+    "Slug": {
+      "type": "string"
+    }
+  }
+}

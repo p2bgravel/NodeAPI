@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "Category",
+  "info": {
+    "name": "category",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "Name": {
+      "required": true,
+      "type": "string"
+    },
+    "Desc": {
+      "type": "text"
+    }
+  }
+}
